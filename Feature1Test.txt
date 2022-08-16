@@ -1,0 +1,3 @@
+Something written in feature1 branch.
+
+Edit2 after bugfix
